@@ -1,0 +1,11 @@
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\bin\Debug\Gasolinera-admin.exe.config
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\bin\Debug\Gasolinera-admin.exe
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\bin\Debug\Gasolinera-admin.pdb
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\bin\Debug\Gasolinera-admin.xml
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera-admin.vbprojResolveAssemblyReference.cache
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera_admin.Form1.resources
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera_admin.Resources.resources
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera-admin.vbproj.GenerateResource.Cache
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera-admin.exe
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera-admin.xml
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-admin\Gasolinera-admin\obj\Debug\Gasolinera-admin.pdb

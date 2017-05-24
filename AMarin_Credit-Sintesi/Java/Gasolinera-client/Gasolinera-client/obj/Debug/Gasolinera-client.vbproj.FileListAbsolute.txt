@@ -1,0 +1,13 @@
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\bin\Debug\Gasolinera-client.exe.config
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera-client.vbprojResolveAssemblyReference.cache
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera_client.Form1.resources
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera_client.Resources.resources
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera-client.vbproj.GenerateResource.Cache
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\bin\Debug\Gasolinera-client.exe
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\bin\Debug\Gasolinera-client.pdb
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\bin\Debug\Gasolinera-client.xml
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera-client.exe
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera-client.xml
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera-client.pdb
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera_client.InputForm.resources
+C:\Users\Begoña\Documents\Visual Studio 2015\Projects\SINTESI\Gasolinera-client\Gasolinera-client\obj\Debug\Gasolinera_client.InputArticles.resources
