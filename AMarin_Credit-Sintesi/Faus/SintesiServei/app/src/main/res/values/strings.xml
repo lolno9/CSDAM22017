@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SintesiServei</string>
+    <string name="tv1">Numero sortidor</string>
+    <string name="tv2">Tipus Carburant</string>
+    <string name="tv3">Hora</string>
+    <string name="tv4">Litres</string>
+    <string name="btn1">Guardar</string>
+    <string name="btn2">Mostrar</string>
+</resources>
